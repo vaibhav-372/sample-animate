@@ -23,7 +23,7 @@ const App = () => {
         />
         <div className="mt-4">
           <h1 className="text-2xl font-semibold text-gray-800">
-            Animated Responsive Caaard
+            Animated Responsiveeee Caaard
           </h1>
           <p className="mt-2 text-gray-600">
             This card includes multiple animations and color transitions using
